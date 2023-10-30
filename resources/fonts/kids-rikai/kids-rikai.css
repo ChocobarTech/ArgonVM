@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 200;
+    src: url('./KIDSRikaiThin.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 300;
+    src: url('./KIDSRikaiLight.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 400;
+    src: url('./KIDSRikaiRegular.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 500;
+    src: url('./KIDSRikaiMedium.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 600;
+    src: url('./KIDSRikaiSemibold.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 700;
+    src: url('./KIDSRikaiBold.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 800;
+    src: url('./KIDSRikaiBlack.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 900;
+    src: url('./KIDSRikaiUltra.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 200;
+    font-style: italic;
+    src: url('./KIDSRikaiThin\ Italic.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 300;
+    font-style: italic;
+    src: url('./KIDSRikaiLight\ Italic.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 400;
+    font-style: italic;
+    src: url('./KIDSRikaiRegular\ Italic.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 500;
+    font-style: italic;
+    src: url('./KIDSRikaiMedium\ Italic.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 600;
+    font-style: italic;
+    src: url('./KIDSRikaiSemibold\ Italic.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 700;
+    font-style: italic;
+    src: url('./KIDSRikaiBold\ Italic.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 800;
+    font-style: italic;
+    src: url('./KIDSRikaiBlack\ Italic.otf');
+}
+@font-face {
+    font-family: 'KIDS Rikai';
+    font-weight: 900;
+    font-style: italic;
+    src: url('./KIDSRikaiUltra\ Italic.otf');
+}

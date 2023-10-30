@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../resources/fonts/kids-rikai/kids-rikai.css">
+        <link rel="stylesheet" href="./style/style.css">
+        <link rel="stylesheet" href="../resources/fonts/icons/FluentSystemIcons-Regular.css">
+        <title>No VM running - Argon VM</title>
+    </head>
+    <body>
+        <div class="top-container">
+            <div class="tabs-container" id="tabs-container">
+                <img src="../build/icons/512x512.png" width="24">
+                <div class="tabs active" onclick="alterTab(event,'home')" id="home-tab">
+                    <i class="icon ic_fluent_home_24_regular"></i>
+                    &nbsp;
+                    <p>Home</p>
+                </div>
+            </div>
+            <div class="app-controls">
+                <div class="control-buttons" id="minimize">
+                    <i class="icon ic_fluent_subtract_48_regular"></i>
+                </div>
+                <div class="control-buttons" id="maximize">
+                    <i class="icon ic_fluent_maximize_24_regular"></i>
+                </div>
+                <div class="control-buttons" id="close">
+                    <i class="icon ic_fluent_dismiss_24_regular"></i>
+                </div>
+            </div>
+        </div>
+        <div class="main-body" id="main-body">
+            <div class="container" id="home">
+                <h1>My Virtual Machines</h1>
+            </div>
+        </div>
+        <script src="../scripts/core/WindowManager.js"></script>
+        <script src="../scripts/core/TabWorkers.js"></script>
+        <script src="../scripts/core/VMWorker.js"></script>
+    </body>
+</html>
